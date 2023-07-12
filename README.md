@@ -1,5 +1,4 @@
 # 0x00. Advanced HTML
-
 `HTML` `Front-end`
 
 |By: David Dias, Senior Software Engineer at HomeX|
