@@ -2,13 +2,7 @@
 
 `HTML` `CSS` `Front-end`
 
-|By: David Dias, Senior Software Engineer at HomeX|
-|:--|
-|Weight: 1|
-|Project will start Jan 11, 2023 6:00 AM, must end by Jan 12, 2023 6:00 AM|
-|was released at Jan 11, 2023 12:00 PM|
-|Manual QA review must be done (request it when you are done with the project)|
-|An auto review will be launched at the deadline|
+|By: Joseph Endale, Junior Professional|
 
 ![devtools](../images/0872ca9b19e11650e355.jpeg)
 
