@@ -136,4 +136,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Endale** - [Joseph](https://github.com/jose2k24)
+* **Joseph Endale** - [Jose2k24](https://github.com/jose2k24)
